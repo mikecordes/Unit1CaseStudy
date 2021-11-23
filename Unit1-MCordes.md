@@ -7,7 +7,7 @@ Homework Assignment 1-Michael Cordes
 
 Plaid 
 
-![Plaid Logo](plaid.png )
+![Plaid Logo](image/plaid.png)
 
 
 ### _**Company incorporated**_:  
@@ -139,3 +139,5 @@ Plaid would need to invest in the development of a consumer-facing app that coul
 •	https://stackshare.io/plaid 
 
 •	https://plaid.com/docs/api/libraries/
+
+•	Crosman, Penny. "Plaid leads effort to raise the bar on fintechs' data security" *American Banker*, November 19, 2021 VOL. 186 No 223, pg 6.
