@@ -1,4 +1,4 @@
-Michael Cordes Unit 1 Assignment
+Unit 1 Assignment Directions
 # Case Study - Unit 1
 
 ## Instructions
