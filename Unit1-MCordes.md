@@ -86,7 +86,9 @@ Plaid has positioned itself as one of the top three open banking data aggregator
 
 Plaid was set to be acquired by Visa in 2020 for $5.3 billion.  At the time of the deal, the purchase price was double of the private valuation for Plaid.  Visa was interested in the purchase due to the market share of Plaid.  The API programs developed by Plaid is often referred to as the “plumbing” of connecting fintech companies to banks.  The attempted acquisition fell apart due to a lawsuit by the Department of Justice. 
 
-Plaid has been named number 39 of the top 50 private company disrupters of 2021 by CNBC.  This is due to the continual growth of the company.  Plaid has claimed to have integrated with more than 11,000 banks and connected to more than 200 million consumer accounts
+Plaid has been named number 39 of the top 50 private company disrupters of 2021 by CNBC.  This is due to the continual growth of the company.  Plaid has claimed to have integrated with more than 11,000 banks and connected to more than 200 million consumer accounts.
+
+As an well-known disrupter, Plaid is actively partnering with other fintechs to develop a standard for fintech data security.  
 
 ## **Recommendations**
 ---
