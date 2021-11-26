@@ -1,5 +1,4 @@
-Michael Cordes Unit 1 Assignment
-# Case Study - Unit 1
+[Michael Cordes Unit 1 Assignment](https://github.com/mikecordes/Unit1CaseStudy/blob/main/Unit1-MCordes.md)
 
 ## Instructions
 ---
