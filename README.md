@@ -1,4 +1,4 @@
-[Michael Cordes Unit 1 Assignment](https://github.com/mikecordes/Unit1CaseStudy/blob/main/Unit1-MCordes.md)
+Linke to Assignment: [Michael Cordes Unit 1 Assignment](https://github.com/mikecordes/Unit1CaseStudy/blob/main/Unit1-MCordes.md) 
 
 ## Instructions
 ---
