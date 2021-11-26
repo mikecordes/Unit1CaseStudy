@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 URLs I visited
 
 https://plaid.com/company/ 
@@ -29,4 +30,37 @@ https://www.cnbc.com/2021/05/25/plaid-disruptor-50.html
 
 https://stackshare.io/plaid 
 
+=======
+URLs I visited
+
+https://plaid.com/company/ 
+
+https://www.barrons.com/articles/plaid-likely-to-go-public-after-failed-sale-to-visa-51610583855 
+
+https://plaid.com/use-cases/consumer-payments/ 
+
+https://plaid.com/use-cases/lending/ 
+
+https://www.sparkcapital.com/companies 
+
+https://www.cnbc.com/2018/12/11/plaids-250-million-funding-round-propels-it-to-2point7-billion-valuation.html 
+
+https://techcrunch.com/2021/04/07/plaid-raises-425m-series-d-from-altimeter-as-it-charts-a-post-visa-future/  
+
+https://www.forbes.com/plaid-fintech/#7d2331f367f9
+
+https://www.eff.org/deeplinks/2020/11/visa-wants-buy-plaid-and-it-transaction-data-millions-people (
+
+https://www.yodlee.com/company 
+
+https://www.finicity.com/company/ 
+
+https://www.cnbc.com/2020/01/13/visa-to-acquire-plaid-the-fintech-powering-venmo-and-other-banking-apps-for-5point3-billion.html 
+
+https://www.cnbc.com/2021/05/25/plaid-disruptor-50.html 
+
+
+https://stackshare.io/plaid 
+
+>>>>>>> ac136fb87c80c9d77985f16b967953bf2f9932a0
 https://plaid.com/docs/api/libraries/
