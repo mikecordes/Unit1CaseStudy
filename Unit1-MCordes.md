@@ -12,7 +12,7 @@ Plaid
 
 ### _**Company incorporated**_:  
 
-Plaid is currently a privately held company that was that was founded in 2013. Although, there has been speculation that the company will either be acquired or go public.  
+Plaid is currently a privately held company that was that was founded in 2013. Although, there has been recent speculation that the company will either be acquired or go public.  
 
 ### _**Company Founders**_: 
 
