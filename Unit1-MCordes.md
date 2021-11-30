@@ -106,7 +106,7 @@ Plaid will also need to offer marketing analytics like their peers, Yoodle and F
 
 ### _**What technologies would this additional product or service utilize?**_
 
-Plaid would need to invest in the development of a consumer-facing app that could serve as a centralized hub for customers that want to utilize the financial services marketplace.   Another technology that would be utilized will be machine learning for the robo-advising services.  
+Plaid would need to invest in the development of a consumer-facing app that could serve as a centralized hub for customers that want to utilize the financial services marketplace.   Another technology that would be utilized will be machine learning for the robo-advising services.  Robo-advising services could be sold to consumers seeking to connect with a financial instution to conduct business or financial institutions seeking to market to specific customer segments.  The ability to sell services to individuals and businesses will create a revenue stream that will grow as Plaid expands their core data aggregation line of business. 
 
 ## **Resources**
 ---
